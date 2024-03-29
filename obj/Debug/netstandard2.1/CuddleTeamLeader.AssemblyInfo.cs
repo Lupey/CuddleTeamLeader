@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuddleTeamLeader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d9d66bc571abdd13aa318f8f33d7d841eba6217")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuddleTeamLeader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuddleTeamLeader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
