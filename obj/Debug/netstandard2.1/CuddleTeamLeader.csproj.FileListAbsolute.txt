@@ -1,0 +1,16 @@
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\bin\Debug\netstandard2.1\CuddleTeamLeader.deps.json
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\bin\Debug\netstandard2.1\CuddleTeamLeader.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\bin\Debug\netstandard2.1\CuddleTeamLeader.pdb
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\bin\Debug\netstandard2.1\ModelReplacementAPI.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\bin\Debug\netstandard2.1\Unity.Netcode.Runtime.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\obj\Debug\netstandard2.1\CuddleTeamLeader.csproj.AssemblyReference.cache
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\obj\Debug\netstandard2.1\CuddleTeamLeader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\obj\Debug\netstandard2.1\CuddleTeamLeader.AssemblyInfoInputs.cache
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\obj\Debug\netstandard2.1\CuddleTeamLeader.AssemblyInfo.cs
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\obj\Debug\netstandard2.1\CuddleTeamLeader.csproj.CoreCompileInputs.cache
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\obj\Debug\netstandard2.1\CuddleTe.82F0B0A3.Up2Date
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\obj\Debug\netstandard2.1\CuddleTeamLeader.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\CuddleTeamLeader\obj\Debug\netstandard2.1\CuddleTeamLeader.pdb
